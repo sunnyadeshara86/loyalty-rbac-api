@@ -1,1 +1,1 @@
-# loyalty-rbac-api
+# Loyalty RBAC API
